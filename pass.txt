@@ -1,0 +1,10 @@
+Single_Enc TURrPTpNVEk9Ok16UT06
+Single_Dec 091234
+password 091234
+pattern default
+algorithm s
+Dobule_Enc VkZVOlVuSTpVRlE6Y0U0OlZrVTphems6VDJzOk1UWTpWVlE6TURZOg==
+Dobule_dec 091234
+password 091234
+pattern default
+algorithm d
